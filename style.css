@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body{
+  
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+header{
+    background-color: #FFF9F4;
+    height: 100vh;
+}
+nav{
+    height: 80px;
+}
+main{
+    height: calc(100vh - 80px);
+}
+.card-img-top {
+    transform: translateY(30px) translateX(15px) rotate(5.35deg);
+}
+.about{
+    height: 70vh;
+}
